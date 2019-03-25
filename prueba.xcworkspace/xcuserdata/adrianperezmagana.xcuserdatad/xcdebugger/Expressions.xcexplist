@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "UsersViewController.filter():UsersViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "user?.id != nil">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UsersViewController.tableView(_:didSelectRowAt:):UsersViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UserManager.shared.users[elementSelected]">
+            </PersistentString>
+            <PersistentString
+               value = "UserManager.shared.users">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in UserManager.getUserDetail(id:completion:):UserManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "try JSONDecoder().decode(User.self, from: data)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserManager.getUsersForLocal(completion:):UserManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Bundle.main.path(forResource: location, ofType: fileType)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

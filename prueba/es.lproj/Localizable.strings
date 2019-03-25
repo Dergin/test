@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  prueba
+
+  Created by Adrian on 20/3/19.
+  Copyright © 2019 Adrian. All rights reserved.
+*/
+
+"msg_error" = "Error general.¿Quieres los datos locales?";
+"msg_general_error" = "Error general";
+"msg_btn_ok" = "Aceptar";
+"msg_btn_cancel" = "Cancelar";
+"msg_error_local" = "Error al leer el archivo local";
+"title_name" = "Nombre";
+"title_birthdaty" = "Cumpleaños";
+"title_id" = "Id";
+"title_users" = "Usuarios";
+"title_create_users" = "Crear Usuarios";
+"title_update_users" = "Actualizar Usuarios";
+"title_detail_users" = "Detalle Usuarios";
+"title_flter" = "Filtros";
+"timeout_message" = "Parece que la conexión está tardando demasiado. Por favor, inténtalo de nuevo más adelante.";
+"btn_confirm" = "Aceptar";
+"btn_detlete" = "Borrar";
+"btn_create" = "Crear";
+"btn_update" = "Actualizar";
+"picker_view_select" = "Selecionar";

@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  prueba
+
+  Created by Adrian on 20/3/19.
+  Copyright © 2019 Adrian. All rights reserved.
+*/
+
+"msg_error" = "General error. Do you can acces to the local?";
+"msg_general_error" = "General error.";
+"msg_btn_ok" = "OK";
+"msg_btn_cancel" = "Cancel";
+"msg_error_local" = "Error to load local file";
+"title_name" = "Name";
+"title_birthdaty" = "Birthday";
+"title_id" = "Id";
+"title_users" = "Users";
+"title_create_users" = "Create Users";
+"title_update_users" = "Update Users";
+"title_detail_users" = "Users Detail";
+"title_flter" = "Filter";
+"timeout_message" = "The request is taking too long to complete. Please, try again later.";
+"btn_confirm" = "Confirm";
+"btn_detlete" = "Delete";
+"btn_create" = "Create";
+"btn_update" = "Update";
+"picker_view_select" = "Select";

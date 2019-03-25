@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.8.1)
+  - Atributika (4.6.9)
+  - Crashlytics (3.12.0):
+    - Fabric (~> 1.9.0)
+  - Fabric (1.9.0)
+  - Localize-Swift (2.0.0)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Atributika
+  - Crashlytics
+  - Localize-Swift
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Atributika
+    - Crashlytics
+    - Fabric
+    - Localize-Swift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Atributika: 06480d85c28097ca73241d8bd0b96d7787f5fe06
+  Crashlytics: 07fb167b1694128c1c9a5a5cc319b0e9c3ca0933
+  Fabric: f988e33c97f08930a413e08123064d2e5f68d655
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 7d79e46a53475e80b7885125140a42ff87e61f90
+
+COCOAPODS: 1.5.3
